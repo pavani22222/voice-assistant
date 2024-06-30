@@ -1,0 +1,11 @@
+We need to install a few dependencies to make this program work .
+Enter the following commands in the console .
+
+1.) pip install pyttsx3
+
+2.) pip install pypiwin32. If this didn't work try :  pip install pypiwin .
+
+3.) pip install speechRecognition
+
+4.) pip install wikipedia
+
